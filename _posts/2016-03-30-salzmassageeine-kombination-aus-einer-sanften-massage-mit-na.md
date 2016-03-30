@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Eine Kombination aus einer sanften Massage mit natürlichen Ölen und einem anregenden Salzpeeling.
-datePublished: '2016-03-30T23:19:06.643Z'
-dateModified: '2016-03-30T23:17:18.443Z'
+datePublished: '2016-03-30T23:21:30.532Z'
+dateModified: '2016-03-30T23:19:15.761Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-30-salzmassageeine-kombination-aus-einer-sanften-massage-mit-na.md
