@@ -1,7 +1,7 @@
 name: Massage Olpe
 favicon: null
 layout_spectrum: 0.99451
-typography_spectrum: 0.9465873145963997
+typography_spectrum: 0.53361
 title: Massage im Freizeitbad Olpe
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#706e6f'
     - '#b7b7b7'
     - '#979797'
-  brandStrength: 0.002158996183425188
-  lightness: 0.051774450577795506
-  saturation: 0.4690707214176655
-  rhythmicContrast: 0.35417213244363666
+  brandStrength: 1
+  lightness: 0.875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
