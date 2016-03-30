@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Die Kombination von Schwingung, Dehnung und speziellen Grifftechniken führt zu einer optimalen Entlastung – besonders der Wirbelsäule\_und der Schultern.45 Minuten / 39 Euro inkl. Smoothie"
-datePublished: '2016-03-30T22:12:44.214Z'
-dateModified: '2016-03-30T22:12:43.682Z'
+datePublished: '2016-03-30T23:11:32.635Z'
+dateModified: '2016-03-30T23:09:28.743Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-30-massage-auf-dem-schwingkissendie-kombination-von-schwingung.md
