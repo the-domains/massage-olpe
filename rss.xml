@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[massage-olpe]]></title>
-        <description><![CDATA[massage-olpe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Massage im Freizeitbad Olpe]]></title>
+        <description><![CDATA[Massage im Freizeitbad Olpe]]></description>
+        <link>https://thegrid.ai/massage-olpe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 21:06:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 21:18:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/massage-olpe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87fc58c7-e56f-4ad0-838f-c3c164616f69.jpg">]]></description>
+            <link>https://thegrid.ai/massage-olpe/massage-auf-dem-schwingkissendie-kombination-von-schwingung/index.html</link>
+            <guid isPermaLink="false">275d5d37-9297-4a99-baa0-0d2ad985d764</guid>
+            <pubDate>Wed, 30 Mar 2016 21:18:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c18ed9c5-68a7-4141-9683-cfc7fe94312f.png">]]></description>
-            <link>undefinedwavemotionsanfte-dreh-und-schwingimpulse-auf-einer-360degree-dre/index.html</link>
+            <link>https://thegrid.ai/massage-olpe/wavemotionsanfte-dreh-und-schwingimpulse-auf-einer-360degree-dre/index.html</link>
             <guid isPermaLink="false">b2eb11c7-af8f-4427-b6e4-363001594ea4</guid>
             <pubDate>Wed, 30 Mar 2016 21:05:31 GMT</pubDate>
         </item>
