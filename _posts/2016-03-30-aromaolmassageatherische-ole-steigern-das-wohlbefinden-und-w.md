@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ätherische Öle steigern das Wohlbefinden und wirken auf Körper und Seele.
-datePublished: '2016-03-30T22:01:35.528Z'
-dateModified: '2016-03-30T22:00:14.333Z'
+datePublished: '2016-03-30T22:12:13.042Z'
+dateModified: '2016-03-30T22:12:12.589Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-30-aromaolmassageatherische-ole-steigern-das-wohlbefinden-und-w.md
