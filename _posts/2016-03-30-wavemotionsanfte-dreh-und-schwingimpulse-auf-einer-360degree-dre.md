@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Sanfte Dreh- und Schwingimpulse auf einer 360° drehbaren und vertikal schwingenden Liege führen zu einer tiefen Entspannung.30 Minuten / 21 Euro
-datePublished: '2016-03-31T19:18:28.778Z'
-dateModified: '2016-03-31T19:18:09.389Z'
+datePublished: '2016-03-31T19:21:10.659Z'
+dateModified: '2016-03-31T19:18:39.292Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-30-wavemotionsanfte-dreh-und-schwingimpulse-auf-einer-360degree-dre.md
