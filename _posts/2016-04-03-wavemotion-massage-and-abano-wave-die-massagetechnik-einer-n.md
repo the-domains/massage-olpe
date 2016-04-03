@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=e7k9xbnf16c'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Besuchen Sie http://www.ClapTzu.de für mehr Informationen! WaveMOTION ist eine völlig neue Form der Wellnessbehandlung! Schweben - schwingen - wie im warmen Wasser; besser kann man das Gefühl einer WaveMOTION-Behandlung auf der dazu gehörigen Massageliege Abano wave nicht beschreiben. Die Behandlungstechnik WaveMOTION erzielt eine Tiefenentspannung, wie man sie sonst nur von der Wasserarbeit her kennt.'
+datePublished: '2016-04-03T11:12:51.406Z'
+dateModified: '2016-04-03T11:12:19.493Z'
 author:
   - name: ClapTzuMassagetische
     url: 'https://www.youtube.com/user/ClapTzuMassagetische'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Besuchen Sie http://www.ClapTzu.de für mehr Informationen! WaveMOTION ist eine völlig neue Form der Wellnessbehandlung! Schweben - schwingen - wie im warmen Wasser; besser kann man das Gefühl einer WaveMOTION-Behandlung auf der dazu gehörigen Massageliege Abano wave nicht beschreiben. Die Behandlungstechnik WaveMOTION erzielt eine Tiefenentspannung, wie man sie sonst nur von der Wasserarbeit her kennt.'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=e7k9xbnf16c'
 title: 'WaveMOTION Massage & Abano wave - die Massagetechnik einer neuen Generation'
-datePublished: '2016-04-03T11:11:27.556Z'
-dateModified: '2016-04-03T11:06:34.376Z'
 sourcePath: _posts/2016-04-03-wavemotion-massage-and-abano-wave-die-massagetechnik-einer-n.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
