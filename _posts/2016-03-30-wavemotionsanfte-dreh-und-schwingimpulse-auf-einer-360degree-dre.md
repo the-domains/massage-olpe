@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Sanfte Dreh- und Schwingimpulse auf einer 360° drehbaren und vertikal schwingenden Liege führen zu einer tiefen Entspannung.
-datePublished: '2016-04-03T11:06:49.973Z'
-dateModified: '2016-04-03T11:06:12.201Z'
+datePublished: '2016-04-03T11:09:40.845Z'
+dateModified: '2016-04-03T11:09:19.351Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-30-wavemotionsanfte-dreh-und-schwingimpulse-auf-einer-360degree-dre.md
