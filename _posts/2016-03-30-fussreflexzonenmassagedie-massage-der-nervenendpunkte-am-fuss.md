@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Die Massage der Nervenendpunkte am Fuß\_wirkt positiv auf den Gesamtorganismus.30 Minuten / 21 Euro"
-datePublished: '2016-03-30T23:05:38.812Z'
-dateModified: '2016-03-30T23:05:32.856Z'
+datePublished: '2016-04-03T11:15:43.179Z'
+dateModified: '2016-04-03T11:15:42.183Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-30-fussreflexzonenmassagedie-massage-der-nervenendpunkte-am-fuss.md
